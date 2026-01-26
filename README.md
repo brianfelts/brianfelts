@@ -18,7 +18,7 @@ Hi! I'm **Brian Felts**, a Software Engineering graduate and aspiring software d
 - Dashboards with ticket tracking, CRUD operations, search, filtering, and pagination  
 - Internal messaging system and relational linking of user accounts  
 
-### WGU Term & Course Tracking App
+### Academic Term & Course Tracking App
 - Cross-platform mobile app using **.NET MAUI**  
 - Full CRUD for terms and courses with nested views  
 - Detailed course pages with assessments, notes, and instructor contact info  
