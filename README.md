@@ -64,7 +64,6 @@ Hi! I'm **Brian Felts**, a Software Engineering graduate and aspiring software d
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=brianfelts&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brianfelts&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=brianfelts&icon=0&color=0)](https://visitcount.itsvg.in)
