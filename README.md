@@ -12,6 +12,17 @@ Hi! I'm **Brian Felts**, a Software Engineering graduate and aspiring software d
 
 
 ## Projects
+
+### EMS API - Emergency Management System RESTful API
+
+-ASP.NET Core 10 RESTful API with .NET 10
+-JWT authentication and role-based access control
+-Full CRUD for Incidents, Teams, Resources, Users, and Notifications
+-Advanced filtering, pagination, caching, and input validation
+-Docker-ready with CI/CD via GitHub Actions
+-Real-time notifications, health checks, structured logging with Serilog
+-Extensive automated tests (~277 tests including unit, integration, and validator tests)
+
 ### Full-Stack HOA Ticketing Platform
 - Built with **ASP.NET Core Razor Pages** and **Identity** for authentication  
 - Role-based access for homeowners and admins  
@@ -31,9 +42,20 @@ Hi! I'm **Brian Felts**, a Software Engineering graduate and aspiring software d
 - User input validation and error handling workflows  
 
 ### EMS Dispatch Dashboard (In Progress)
-- SaaS-oriented dispatch dashboard with custom **REST API** in ASP.NET Core 8  
-- JWT authentication and role-based access control  
-- Scalable, API-first architecture for multiple client integrations  
+-SaaS-oriented dispatch dashboard built on .NET MAUI (mobile) and WinForms (desktop)
+-Integrates with the EMS API for real-time incident management and resource tracking
+-JWT authentication and role-based access control for Admins, Supervisors, Dispatchers, and Responders
+-Dashboard Features:
+--Incident overview with filtering, search, and status tracking
+--Team management and resource allocation views
+--Real-time notifications from the EMS API
+--Interactive charts and metrics for incident response performance
+-Scalable, API-first architecture designed for multiple client integrations
+-Cross-platform support (Windows, macOS, Android, iOS) using .NET MAUI
+-MVVM architecture for clean separation of UI and business logic
+-User-friendly interface with dynamic dashboards and responsive design
+-Local data caching for offline access and faster performance
+-Secure workflows for CRUD operations on incidents, teams, resources, and notifications
 
 
 
