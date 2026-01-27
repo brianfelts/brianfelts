@@ -63,7 +63,6 @@ Hi! I'm **Brian Felts**, a Software Engineering graduate and aspiring software d
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brian.p.felts@gmail.com) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=brianfelts&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=brianfelts&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brianfelts&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
