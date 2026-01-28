@@ -46,10 +46,10 @@ Hi! I'm **Brian Felts**, a Software Engineering graduate and aspiring software d
 - Integrates with the EMS API for real-time incident management and resource tracking
 - JWT authentication and role-based access control for Admins, Supervisors, Dispatchers, and Responders
 - Dashboard Features:
-- - Incident overview with filtering, search, and status tracking
-- - Team management and resource allocation views
-- - Real-time notifications from the EMS API
-- - Interactive charts and metrics for incident response performance
+ - Incident overview with filtering, search, and status tracking
+ - Team management and resource allocation views
+ - Real-time notifications from the EMS API
+ - Interactive charts and metrics for incident response performance
 - Scalable, API-first architecture designed for multiple client integrations
 - Cross-platform support (Windows, macOS, Android, iOS) using .NET MAUI
 - MVVM architecture for clean separation of UI and business logic
